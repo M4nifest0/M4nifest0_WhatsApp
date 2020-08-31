@@ -28,6 +28,9 @@ script for analyzing data, conversations in WhatsApp groups
 - Scroll down to find "Export Chat" menu
 - Choose "Without Media"
 
+##### Supported Analysis
+### Key
+This text must be read [KEY]
 ----------------------
 
 <h2>🌐 Follow (bad boys) in virtual networks 📍</h2>

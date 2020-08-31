@@ -34,7 +34,7 @@ script for analyzing data, conversations in WhatsApp groups
 
 ##### See Training 
 
-- 🔞 See Training 🎥 shorturl.at/dDOPS ⚠️
+- 🔞 See Training 🎥 https://youtu.be/-EARzcnISog  🎥
 
 ----------------------
 

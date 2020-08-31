@@ -34,7 +34,7 @@ script for analyzing data, conversations in WhatsApp groups
 - Jupyter Notebook: Coming soon
 - NodeJS: Coming soon
 
-### 📌 Explicit security team activity on social networks:👇🏾
+### 📌 Explicit security team activity on social networks 🔞
 ----------------------
 <h2>🌐 Follow (bad boys) in virtual networks 📍</h2>
 <p align="center">	

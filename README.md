@@ -30,7 +30,8 @@ script for analyzing data, conversations in WhatsApp groups
 
 ##### Supported Analysis
 ### Key
-This text must be read [KEY]
+- This text must be read [KEY]
+
 ----------------------
 
 <h2>🌐 Follow (bad boys) in virtual networks 📍</h2>

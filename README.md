@@ -32,7 +32,9 @@ script for analyzing data, conversations in WhatsApp groups
 ### Key
 - This text must be read [KEY]
 
-##### 🔞⚠️ See Training 🎥
+##### See Training 
+
+- 🔞⚠️ See Training 🎥
 
 ----------------------
 

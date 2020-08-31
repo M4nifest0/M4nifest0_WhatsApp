@@ -28,12 +28,8 @@ script for analyzing data, conversations in WhatsApp groups
 - Scroll down to find "Export Chat" menu
 - Choose "Without Media"
 
-## Other Tech Port
 ----------------------
-- Web: Coming soon
-- Jupyter Notebook: Coming soon
-- NodeJS: Coming soon
-----------------------
+
 <h2>🌐 Follow (bad boys) in virtual networks 📍</h2>
 <p align="center">	
 </a>&nbsp;&nbsp;&nbsp;&nbsp;

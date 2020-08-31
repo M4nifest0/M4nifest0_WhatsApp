@@ -36,7 +36,7 @@ script for analyzing data, conversations in WhatsApp groups
 
 ### 📌 Explicit security team activity on social networks:👇🏾
 ----------------------
-<h2>🌐 Follow (bad boys) in virtual networks: ...</h2>
+<h2>🌐 Follow (bad boys) in virtual networks 📍</h2>
 <p align="center">	
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
